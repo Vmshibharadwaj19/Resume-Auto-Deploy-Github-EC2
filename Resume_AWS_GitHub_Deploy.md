@@ -92,7 +92,8 @@ jobs:
 - HTML resume file (`index.html`) is sent to EC2  
 - Apache serves the file at `http://<public-dns>`  
 - Apache service is started and enabled via workflow  
-
+-Repository Name-EWP ,.git/workflows/yml to EC2
+-Reference link - http://ec2-52-207-236-91.compute-1.amazonaws.com/
 ---
 
 ## 🎯 Outcome
